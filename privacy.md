@@ -84,4 +84,4 @@ GSync 플러그인의 동작 방식에 대한 자세한 내용은 [공식 소스
 
 서비스 명칭: Personal Obsidian Drive Sync
 
-관리자 연락처: [본인 연락처 이메일 입력]
+관리자 연락처: 1992shyoon@gmail.com
